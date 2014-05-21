@@ -81,4 +81,13 @@ Then add that to the schedule.rb file and update whenever.
 To unencrypt the backup database:
 
     backup decrypt --encryptor openssl --base64 --salt --in <encrypted_file> --out <decrypted_file>
+    
+    
+    
+Contact / background info :
+http://joshschwartzman.com/about/
+https://angel.co/nreduce
+http://venturebeat.com/2012/05/28/nreduce/
+https://twitter.com/geeosh
+https://www.linkedin.com/in/joshschwartzman
 
